@@ -10,9 +10,13 @@ A beautiful flutter UI developed by nonybrighto and designed by [Shoaib Mahmud.]
 
 Screenshots from the developed flutter application
 
-<img src="screenshots/home.png" width="32%"/> <img src="screenshots/display_green.png" width="32%"/> <img src="screenshots/display_orange.png" width="32%"/>
+| Home                                           | Display 1                                               | Display 2                                                |
+| ---------------------------------------------- | ------------------------------------------------------- | -------------------------------------------------------- |
+| <img src="screenshots/home.png" width="100%"/> | <img src="screenshots/display_green.png" width="100%"/> | <img src="screenshots/display_orange.png" width="100%"/> |
 
-<img src="screenshots/cart.png" width="32%"/> <img src="screenshots/wish_list.png" width="32%"/> <img src="screenshots/you.png" width="32%"/>
+| Cart                                           | Wish List                                           | You                                           |
+| ---------------------------------------------- | --------------------------------------------------- | --------------------------------------------- |
+| <img src="screenshots/cart.png" width="100%"/> | <img src="screenshots/wish_list.png" width="100%"/> | <img src="screenshots/you.png" width="100%"/> |
 
 ## Mentions
 
